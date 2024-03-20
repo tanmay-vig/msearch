@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from 'next/link';
 import MenuItem from './MenuItem';
 import { AiFillHome } from 'react-icons/ai';
